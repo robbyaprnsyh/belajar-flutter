@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('Biodata'),
           centerTitle: true,
-          backgroundColor: Color.fromARGB(255, 204, 135, 25),
+          backgroundColor: Color.fromARGB(255, 39, 105, 205),
         ),
         body: Biodata(),
       ),
